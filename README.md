@@ -11,7 +11,7 @@ Here you can access my Itch.io page and download the most recent version of Glac
 https://gitlab.com/ajfernandezbelliure/glacialsoul
 If you feel curious about the code and the whole project feel free to download it and test it yourself!
 
-##Youtube videos
+## Youtube videos
 Official Trailer: https://youtu.be/Xz0O666emFg
 Official Gameplay: https://youtu.be/DhuWq-QmLoo
 Development explanation (Spanish): https://youtu.be/FmfbB0lmAkQ
